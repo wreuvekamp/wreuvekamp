@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WimReuvekampSDSU
+- 👋 Hi, I’m @wreuvekamp
 - 👀 I’m interested in machine learning, software engineering, and database management
 - 🌱 I’m currently learning at South Dakota State University
 - 💞️ I’m looking to collaborate on ...
