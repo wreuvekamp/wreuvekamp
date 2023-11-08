@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @wreuvekamp
-- 👀 I’m interested in machine learning, software engineering, and database management
-- 🌱 I’m currently learning at South Dakota State University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Wim.Reuvekamp@jacks.sdstate.edu
+- 👀 I’m interested in software engineering, cyber security, and aviation
+- 🌱 I’m currently learning Computer Science (BS) at South Dakota State University
+- 📫 How to reach me:
+- School: Wim.Reuvekamp@jacks.sdstate.edu
+- Work/Personal: wimreuvekamp@yahoo.com
 
 <!---
 WimReuvekampSDSU/WimReuvekampSDSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
